@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserAPI</string>
+    <string name="internet">No internet connection</string>
+
+</resources>
